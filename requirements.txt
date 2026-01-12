@@ -1,0 +1,10 @@
+# AWS SDK
+boto3>=1.26.0
+botocore>=1.29.0
+
+# NLP / ML
+torch>=2.0.0
+transformers>=4.30.0
+
+# Utilities
+tqdm>=4.65.0
