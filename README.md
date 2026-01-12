@@ -23,24 +23,6 @@ flowchart TB
     H --> I["Quant Analysis<br/>+ Signal Modeling"]
   end
 ```
-
-## Repository structure
-
-- **Lambda functions (serverless orchestration)**  
-  → [lambda/README.md](lambda/README.md)
-
-- **EC2 FinBERT worker (ML inference)**  
-  → [worker/README.md](worker/README.md)
-
-- **Infrastructure & setup notes**  
-  → `infra/`
-
-- **Example input/output samples**  
-  → `example_data/`
-
-- **Architecture diagrams & screenshots**  
-  → `docs/`
-
 ## Repository Structure
 
 - **Lambda functions**  
